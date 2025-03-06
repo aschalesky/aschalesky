@@ -91,7 +91,9 @@
     <td VALIGN = Top>
       <a href="https://github.com/aschalesky/R_Programming_Bikeshare" target="blank">
         <img src="/Bikeshare.png" alt="R Programming Bikeshare" height="120" width="120">
-        <br>Bikeshare Analysis by City
+        <br>Bikeshare by City
+        <br>(Data Wrangling,
+        <br>R Programming)
       </a>
     </td>
     <td VALIGN = Top>
