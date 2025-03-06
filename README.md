@@ -112,12 +112,11 @@
 <table>
   <tr>
     <td VALIGN = Top>
-      <a href="https://github.com/aschalesky/Finding_Donors/blob/main/finding_donors.ipynb" target="blank">
-        <img src="/Finding_Donors.png" alt="Finding Donors (Supervised Learning in Python)" height="120" width="120">
-        <br>Finding Donors
-        <br>(Supervised ML/
-        <br>Python/Hyperparameter 
-        <br>Tuning/Pipeline)
+      <a href="https://github.com/aschalesky/AB_Analysis/blob/main/AB_Analysis.ipynb" target="blank">
+        <img src="/AB_Analysis.png" alt="A/B Test Analysis (Supervised Learning in Python)" height="120" width="120">
+        <br>A/B Test Analysis
+        <br>(A/B Testing/
+        <br>Python/Regression)
       </a>
     </td>
     <td VALIGN = Top>
