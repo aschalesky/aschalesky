@@ -21,6 +21,7 @@
 </table>
 
 <h3 align="left">Portfolio:</h3>
+<h4 align="left">Visualization</h4>
 <table>
   <tr>
     <td>
@@ -29,6 +30,17 @@
         <br>Tableau Public @ amy.schalesky
       </a>
     </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://public.tableau.com/app/profile/amy.schalesky/vizzes" target="blank">
+        <img src="/tableau-icon-svgrepo-com.svg" alt="Tableau Public @ amy.schalesky" height="30" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td>
       <a href="https://kaggle.com/amyschalesky" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle @ amyschalesky" height="30" width="40" />
