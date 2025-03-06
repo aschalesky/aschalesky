@@ -62,7 +62,24 @@
     </td>
   </tr>
 </table>
-
+<h4 align="left">AI/ML (Supervised/Unsupervised Learning)</h4>
+<table>
+  <tr>
+    <td VALIGN = Top>
+      <a href="https://github.com/aschalesky/Finding_Donors/blob/main/finding_donors.ipynb" target="blank">
+        <img src="/Tableau_Poverty_in_the_US.png" alt="Finding Donors (Supervised Learning in Python)" height="120" width="120">
+        <br>Finding Donors (Supervised Learning in Python)
+      </a>
+    </td>
+    <td VALIGN = Top>
+      <a href="https://public.tableau.com/app/profile/amy.schalesky/viz/TrendsinNFLConcussionRatesanEightYearAnalysis_17386674861240/GamevsPracticeComparisons" target="blank">
+        <img src="/Tableau_NFL_Injuries.png" alt="8-Year NFL Injury Regression" height="120" width="120">
+        <br>8-Year NFL Injury
+        <br>Regression
+      </a>
+    </td>
+  </tr>
+</table>
 <h3 align="left">Skills:</h3>
 <h4 align="left">Programming Languages</h4>
 <p>
