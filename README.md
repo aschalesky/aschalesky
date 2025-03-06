@@ -62,7 +62,7 @@
     </td>
   </tr>
 </table>
-<h4 align="left">AI/ML (Supervised/Unsupervised Learning)</h4>
+<h4 align="left">Artificial Intelligence/Machine Learning (AI/ML)</h4>
 <table>
   <tr>
     <td VALIGN = Top>
@@ -81,6 +81,24 @@
         <br>(Unsupervised ML
         <br>/Python/Feature
         <br>Engineering/Scikit-Learn)
+      </a>
+    </td>
+  </tr>
+</table>
+<h4 align="left">Extract, Transform, Load (ETL)</h4>
+<table>
+  <tr>
+    <td VALIGN = Top>
+      <a href="https://github.com/aschalesky/R_Programming_Bikeshare" target="blank">
+        <img src="/Bikeshare.png" alt="R Programming Bikeshare" height="120" width="120">
+        <br>Bikeshare Analysis by City
+      </a>
+    </td>
+    <td VALIGN = Top>
+      <a href="https://public.tableau.com/app/profile/amy.schalesky/viz/TrendsinNFLConcussionRatesanEightYearAnalysis_17386674861240/GamevsPracticeComparisons" target="blank">
+        <img src="/Tableau_NFL_Injuries.png" alt="8-Year NFL Injury Regression" height="120" width="120">
+        <br>8-Year NFL Injury
+        <br>(Linear Regression)
       </a>
     </td>
   </tr>
