@@ -67,15 +67,16 @@
   <tr>
     <td VALIGN = Top>
       <a href="https://github.com/aschalesky/Finding_Donors/blob/main/finding_donors.ipynb" target="blank">
-        <img src="/Tableau_Poverty_in_the_US.png" alt="Finding Donors (Supervised Learning in Python)" height="120" width="120">
-        <br>Finding Donors (Supervised Learning in Python)
+        <img src="/Finding_Donors.png" alt="Finding Donors (Supervised Learning in Python)" height="120" width="120">
+        <br>Finding Donors
+        <br>(Supervised ML/Python)
       </a>
     </td>
     <td VALIGN = Top>
       <a href="https://public.tableau.com/app/profile/amy.schalesky/viz/TrendsinNFLConcussionRatesanEightYearAnalysis_17386674861240/GamevsPracticeComparisons" target="blank">
         <img src="/Tableau_NFL_Injuries.png" alt="8-Year NFL Injury Regression" height="120" width="120">
         <br>8-Year NFL Injury
-        <br>Regression
+        <br>(Linear Regression)
       </a>
     </td>
   </tr>
