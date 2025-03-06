@@ -8,13 +8,36 @@
     <td>
       <a href="mailto:a.schalesky1@gmail.com" target="blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="a.schalesky1@gmail.com" height="30" width="40" />
-        <br>a.schalesky1@gmail.com
+        <br>a.schalesky1
+        <br>@gmail.com
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/aschalesky" target="blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="a.schalesky1@gmail.com" height="30" width="40" />
+        <br>a.schalesky1
+        <br>@gmail.com
+      </a>
+    </td>
+    <td>
+      <a href="https://kaggle.com/amyschalesky" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle @ amyschalesky" height="30" width="40">
+        <br>Kaggle
+        <br>@ amyschalesky
       </a>
     </td>
     <td>
       <a href="https://linkedin.com/in/aschalesky" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn @ aschalesky" height="30" width="40"/>
-        <br>LinkedIn @ aschalesky
+        <br>LinkedIn
+        <br>@ aschalesky
+      </a>
+    </td>
+    <td>
+      <a href="https://public.tableau.com/app/profile/amy.schalesky/vizzes" target="blank">
+        <img src="/tableau-icon-svgrepo-com.svg" alt="Tableau Public @ amy.schalesky" height="30" width="40"/>
+        <br>Tableau Public 
+        <br>@ amy.schalesky
       </a>
     </td>
   </tr>
@@ -24,33 +47,17 @@
 <h4 align="left">Visualization</h4>
 <table>
   <tr>
-    <td>
-      <a href="https://public.tableau.com/app/profile/amy.schalesky/vizzes" target="blank">
-        <img src="/tableau-icon-svgrepo-com.svg" alt="Tableau Public @ amy.schalesky" height="30" width="40"/>
-        <br>Tableau Public @ amy.schalesky
-      </a>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>
-      <a href="https://public.tableau.com/app/profile/amy.schalesky/vizzes" target="blank">
-        <img src="/tableau-icon-svgrepo-com.svg" alt="Tableau Public @ amy.schalesky" height="30" width="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-  <tr>
-    <td>
+    <td VALIGN = Top>
       <a href="https://public.tableau.com/app/profile/amy.schalesky/viz/2015CountyCensusData/Dashboard1" target="blank">
-      ![A Study on Poverty Across the USA]()
-<table>
-  <tr>
-    <td>
-      <a href="https://kaggle.com/amyschalesky" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle @ amyschalesky" height="30" width="40" />
-        <br>Kaggle @ amyschalesky
+        <img src="/Tableau_Poverty_in_the_US.png" alt="Poverty in the US" height="120" width="120">
+        <br>Poverty in the US
+      </a>
+    </td>
+    <td VALIGN = Top>
+      <a href="https://public.tableau.com/app/profile/amy.schalesky/viz/TrendsinNFLConcussionRatesanEightYearAnalysis_17386674861240/GamevsPracticeComparisons" target="blank">
+        <img src="/Tableau_NFL_Injuries.png" alt="8-Year NFL Injury Regression" height="120" width="120">
+        <br>8-Year NFL Injury
+        <br>Regression
       </a>
     </td>
   </tr>
@@ -63,19 +70,19 @@
   <tr>
     <td>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
         <br>C
       </a>
     </td>
     <td>
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
         <br>C++
       </a>
     </td>
     <td>
       <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40">
         <br>Java
       </a>
     </td>
