@@ -70,7 +70,8 @@
         <img src="/Finding_Donors.png" alt="Finding Donors (Supervised Learning in Python)" height="120" width="120">
         <br>Finding Donors
         <br>(Supervised ML/
-        <br>Python/Pipeline)
+        <br>Python/Hyperparameter 
+        <br>Tuning/Pipeline)
       </a>
     </td>
     <td VALIGN = Top>
