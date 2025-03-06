@@ -14,9 +14,9 @@
     </td>
     <td>
       <a href="https://github.com/aschalesky" target="blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="a.schalesky1@gmail.com" height="30" width="40" />
-        <br>a.schalesky1
-        <br>@gmail.com
+        <img src=/github-mark.svg alt="GitHub @ aschalesky" height="30" width="40">
+        <br>aschalesky
+        <br>@ github
       </a>
     </td>
     <td>
