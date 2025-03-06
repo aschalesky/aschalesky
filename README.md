@@ -74,12 +74,12 @@
       </a>
     </td>
     <td VALIGN = Top>
-      <a href="https://github.com/aschalesky/R_Programming_Bikeshare" target="blank">
-        <img src="/Bikeshare.png" alt="Bikeshare (Unsupervised Learning in R" height="120" width="120">
-        <br>Bikeshare by City
+      <a href="https://github.com/aschalesky/ML_Arvato_Creating_Customer_Segments/blob/main/Identify_Customer_Segments.ipynb" target="blank">
+        <img src="/Identify_Customer_Segments.png" alt="Identify Customer Segments Unsupervised ML, Python, Feature Engineering" height="120" width="120">
+        <br>Identify Customer Segments
         <br>(Unsupervised ML
         <br>/Python/Feature
-        <br>Engineering)
+        <br>Engineering/Scikit-Learn)
       </a>
     </td>
   </tr>
