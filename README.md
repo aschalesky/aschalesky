@@ -57,7 +57,7 @@
       <a href="https://public.tableau.com/app/profile/amy.schalesky/viz/TrendsinNFLConcussionRatesanEightYearAnalysis_17386674861240/GamevsPracticeComparisons" target="blank">
         <img src="/Tableau_NFL_Injuries.png" alt="8-Year NFL Injury Regression" height="120" width="120">
         <br>8-Year NFL Injury
-        <br>Regression
+        <br>(Linear Regression)
       </a>
     </td>
   </tr>
@@ -69,14 +69,17 @@
       <a href="https://github.com/aschalesky/Finding_Donors/blob/main/finding_donors.ipynb" target="blank">
         <img src="/Finding_Donors.png" alt="Finding Donors (Supervised Learning in Python)" height="120" width="120">
         <br>Finding Donors
-        <br>(Supervised ML/Python)
+        <br>(Supervised ML/
+        <br>Python/Pipeline)
       </a>
     </td>
     <td VALIGN = Top>
-      <a href="https://public.tableau.com/app/profile/amy.schalesky/viz/TrendsinNFLConcussionRatesanEightYearAnalysis_17386674861240/GamevsPracticeComparisons" target="blank">
-        <img src="/Tableau_NFL_Injuries.png" alt="8-Year NFL Injury Regression" height="120" width="120">
-        <br>8-Year NFL Injury
-        <br>(Linear Regression)
+      <a href="https://github.com/aschalesky/R_Programming_Bikeshare" target="blank">
+        <img src="/Bikeshare.png" alt="Bikeshare (Unsupervised Learning in R" height="120" width="120">
+        <br>Bikeshare by City
+        <br>(Unsupervised ML
+        <br>/Python/Feature
+        <br>Engineering)
       </a>
     </td>
   </tr>
