@@ -51,6 +51,7 @@
       <a href="https://public.tableau.com/app/profile/amy.schalesky/viz/2015CountyCensusData/Dashboard1" target="blank">
         <img src="/Tableau_Poverty_in_the_US.png" alt="Poverty in the US" height="120" width="120">
         <br>Poverty in the US
+        <br>(Descriptive Analysis)
       </a>
     </td>
     <td VALIGN = Top>
@@ -77,7 +78,7 @@
     <td VALIGN = Top>
       <a href="https://github.com/aschalesky/ML_Arvato_Creating_Customer_Segments/blob/main/Identify_Customer_Segments.ipynb" target="blank">
         <img src="/Identify_Customer_Segments.png" alt="Identify Customer Segments Unsupervised ML, Python, Feature Engineering" height="120" width="120">
-        <br>Identify Customer Segments
+        <br>ID Customer Segments
         <br>(Unsupervised ML
         <br>/Python/Feature
         <br>Engineering/Scikit-Learn)
@@ -99,9 +100,33 @@
     <td VALIGN = Top>
       <a href="https://github.com/aschalesky/Data_Wrangling_and_Modeling/blob/main/act_report.ipynb" target="blank">
         <img src="/Wrangling_Modeling.png" alt="Data Wrangling and Data Modeling" height="120" width="120">
-        <br>Data Wrangling/Modeling
+        <br>Data Wrangling/
+        <br>Modeling
         <br>(Python, Pandas
         <br>Seaborn, API)
+      </a>
+    </td>
+  </tr>
+</table>
+<h4 align="left">Statistical Analyses</h4>
+<table>
+  <tr>
+    <td VALIGN = Top>
+      <a href="https://github.com/aschalesky/Finding_Donors/blob/main/finding_donors.ipynb" target="blank">
+        <img src="/Finding_Donors.png" alt="Finding Donors (Supervised Learning in Python)" height="120" width="120">
+        <br>Finding Donors
+        <br>(Supervised ML/
+        <br>Python/Hyperparameter 
+        <br>Tuning/Pipeline)
+      </a>
+    </td>
+    <td VALIGN = Top>
+      <a href="https://github.com/aschalesky/ML_Arvato_Creating_Customer_Segments/blob/main/Identify_Customer_Segments.ipynb" target="blank">
+        <img src="/Identify_Customer_Segments.png" alt="Identify Customer Segments Unsupervised ML, Python, Feature Engineering" height="120" width="120">
+        <br>ID Customer Segments
+        <br>(Unsupervised ML
+        <br>/Python/Feature
+        <br>Engineering/Scikit-Learn)
       </a>
     </td>
   </tr>
