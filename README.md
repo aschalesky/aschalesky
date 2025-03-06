@@ -97,10 +97,11 @@
       </a>
     </td>
     <td VALIGN = Top>
-      <a href="https://public.tableau.com/app/profile/amy.schalesky/viz/TrendsinNFLConcussionRatesanEightYearAnalysis_17386674861240/GamevsPracticeComparisons" target="blank">
-        <img src="/Tableau_NFL_Injuries.png" alt="8-Year NFL Injury Regression" height="120" width="120">
-        <br>8-Year NFL Injury
-        <br>(Linear Regression)
+      <a href="https://github.com/aschalesky/Data_Wrangling_and_Modeling/blob/main/act_report.ipynb" target="blank">
+        <img src="/Wrangling_Modeling.png" alt="Data Wrangling and Data Modeling" height="120" width="120">
+        <br>Data Wrangling/Modeling
+        <br>(Python, Pandas
+        <br>Seaborn, API)
       </a>
     </td>
   </tr>
