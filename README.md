@@ -119,15 +119,6 @@
         <br>Python/Regression)
       </a>
     </td>
-    <td VALIGN = Top>
-      <a href="https://github.com/aschalesky/ML_Arvato_Creating_Customer_Segments/blob/main/Identify_Customer_Segments.ipynb" target="blank">
-        <img src="/Identify_Customer_Segments.png" alt="Identify Customer Segments Unsupervised ML, Python, Feature Engineering" height="120" width="120">
-        <br>ID Customer Segments
-        <br>(Unsupervised ML
-        <br>/Python/Feature
-        <br>Engineering/Scikit-Learn)
-      </a>
-    </td>
   </tr>
 </table>
 <h3 align="left">Skills:</h3>
